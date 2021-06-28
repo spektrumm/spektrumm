@@ -6,7 +6,21 @@ namespace Learning_C_
     {
         static void Main(string[] args)
         {
-            // ListsAndArraysPractice(); --- Call Lists Practice Method
+            /*
+            --- Lists and Arrays practice call ---
+
+            ListsAndArraysPractice();
+            */
+
+            /* 
+            --- Methods parameters and returns practice ---
+
+            var squaredNum = Square(8);
+            Console.WriteLine(squaredNum);
+            */
+
+            // Keep terminal window open until keypress
+            Console.ReadKey();
         }
 
         static void ListsAndArraysPractice() {
@@ -22,5 +36,12 @@ namespace Learning_C_
             Console.ReadKey();
 
         }
+
+        static int Square(int inputNum) {
+            int result = inputNum * inputNum;
+            return result;
+        }
+
+        
     }
 }
