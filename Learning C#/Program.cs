@@ -19,6 +19,8 @@ namespace Learning_C_
             Console.WriteLine(squaredNum);
             */
 
+            DiceRoll();
+
             // Keep terminal window open until keypress
             Console.ReadKey();
         }
@@ -42,6 +44,25 @@ namespace Learning_C_
             return result;
         }
 
-        
+        static void DiceRoll() {
+
+            Console.WriteLine("Press Enter to roll the die:");
+            int rollDice = 0;
+            int attemptsNum = 0;
+
+            while (rollDice != 6) {
+                Console.ReadKey();
+                
+                Random randomNumber = new Random();
+
+                rollDice = randomNumber.Next(1, 7);
+                Console.WriteLine($"You rolled {rollDice}!");
+
+                attemptsNum++;
+
+            }
+
+            Console.WriteLine($"It took {attemptsNum} attempts to roll a 6.");
+        }
     }
 }
