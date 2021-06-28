@@ -1,0 +1,16 @@
+C:\Users\natha\Documents\spektrumm\Learning C#\bin\Debug\net5.0\Learning C#.exe
+C:\Users\natha\Documents\spektrumm\Learning C#\bin\Debug\net5.0\Learning C#.deps.json
+C:\Users\natha\Documents\spektrumm\Learning C#\bin\Debug\net5.0\Learning C#.runtimeconfig.json
+C:\Users\natha\Documents\spektrumm\Learning C#\bin\Debug\net5.0\Learning C#.runtimeconfig.dev.json
+C:\Users\natha\Documents\spektrumm\Learning C#\bin\Debug\net5.0\Learning C#.dll
+C:\Users\natha\Documents\spektrumm\Learning C#\bin\Debug\net5.0\ref\Learning C#.dll
+C:\Users\natha\Documents\spektrumm\Learning C#\bin\Debug\net5.0\Learning C#.pdb
+C:\Users\natha\Documents\spektrumm\Learning C#\obj\Debug\net5.0\Learning C#.csproj.AssemblyReference.cache
+C:\Users\natha\Documents\spektrumm\Learning C#\obj\Debug\net5.0\Learning C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\Documents\spektrumm\Learning C#\obj\Debug\net5.0\Learning C#.AssemblyInfoInputs.cache
+C:\Users\natha\Documents\spektrumm\Learning C#\obj\Debug\net5.0\Learning C#.AssemblyInfo.cs
+C:\Users\natha\Documents\spektrumm\Learning C#\obj\Debug\net5.0\Learning C#.csproj.CoreCompileInputs.cache
+C:\Users\natha\Documents\spektrumm\Learning C#\obj\Debug\net5.0\Learning C#.dll
+C:\Users\natha\Documents\spektrumm\Learning C#\obj\Debug\net5.0\ref\Learning C#.dll
+C:\Users\natha\Documents\spektrumm\Learning C#\obj\Debug\net5.0\Learning C#.pdb
+C:\Users\natha\Documents\spektrumm\Learning C#\obj\Debug\net5.0\Learning C#.genruntimeconfig.cache
