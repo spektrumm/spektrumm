@@ -1,0 +1,15 @@
+/Users/nhare/Documents/GitHub/spektrumm/Learning C#/bin/Debug/net6.0/Learning C#
+/Users/nhare/Documents/GitHub/spektrumm/Learning C#/bin/Debug/net6.0/Learning C#.deps.json
+/Users/nhare/Documents/GitHub/spektrumm/Learning C#/bin/Debug/net6.0/Learning C#.runtimeconfig.json
+/Users/nhare/Documents/GitHub/spektrumm/Learning C#/bin/Debug/net6.0/Learning C#.dll
+/Users/nhare/Documents/GitHub/spektrumm/Learning C#/bin/Debug/net6.0/ref/Learning C#.dll
+/Users/nhare/Documents/GitHub/spektrumm/Learning C#/bin/Debug/net6.0/Learning C#.pdb
+/Users/nhare/Documents/GitHub/spektrumm/Learning C#/obj/Debug/net6.0/Learning C#.csproj.AssemblyReference.cache
+/Users/nhare/Documents/GitHub/spektrumm/Learning C#/obj/Debug/net6.0/Learning C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nhare/Documents/GitHub/spektrumm/Learning C#/obj/Debug/net6.0/Learning C#.AssemblyInfoInputs.cache
+/Users/nhare/Documents/GitHub/spektrumm/Learning C#/obj/Debug/net6.0/Learning C#.AssemblyInfo.cs
+/Users/nhare/Documents/GitHub/spektrumm/Learning C#/obj/Debug/net6.0/Learning C#.csproj.CoreCompileInputs.cache
+/Users/nhare/Documents/GitHub/spektrumm/Learning C#/obj/Debug/net6.0/Learning C#.dll
+/Users/nhare/Documents/GitHub/spektrumm/Learning C#/obj/Debug/net6.0/ref/Learning C#.dll
+/Users/nhare/Documents/GitHub/spektrumm/Learning C#/obj/Debug/net6.0/Learning C#.pdb
+/Users/nhare/Documents/GitHub/spektrumm/Learning C#/obj/Debug/net6.0/Learning C#.genruntimeconfig.cache
