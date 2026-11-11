@@ -1,3 +1,1 @@
-the 1.X modpack has been delayed indefinitely
-
-"oh no!"
+[![RasaNovum](https://modfolio.creeperkatze.dev/curseforge/user/102285605?showSparklines=false&showBorder=false&color=ff8080)](https://www.curseforge.com/members/rasanovum) [![Rasa Novum](https://modfolio.creeperkatze.dev/modrinth/organization/rasanovum?showSparklines=false&showBorder=false&color=ff8080)](https://modrinth.com/organization/rasanovum)
